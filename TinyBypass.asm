@@ -32,7 +32,7 @@ Process32Next dd 00000000
 ntopenfile dd 00000000
 ldrloaddll dd 00000000
 
-processname db "csgo.exe",0    ; process name
+processname db "csgo.exe",0    ; process name (changing this doesn't mate sense, since only csgo has trusted launch)
 handle dd 00000000
 ps db 128 dup(?)
 pid dd 00000000
