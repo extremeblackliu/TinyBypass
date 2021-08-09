@@ -1,4 +1,5 @@
 # TinyBypass
-Bypass VAC-Loadlibrary-Hooks
 
-A Tiny && Simple Bypass VAC LoadLibrary Hook written in ASM.
+A tiny & simple VAC bypass written in ASM.
+
+Bypasses CS:GO's trusted launch's LoadLibrary hook.
